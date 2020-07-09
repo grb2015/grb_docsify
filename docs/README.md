@@ -45,16 +45,17 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
     - 第二项嵌套的第二个元素
   ```
 *********
-## 图片
+## 图片、视频
 - 图片的资源文件保存到本仓库的res文件夹中
 - 开头一个感叹号 !
 - 接着一个方括号，里面放上图片的替代文字
 - 接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字
-- 我们的资源文件统一存放在 docs/res/文件夹中，然后用下文示例的方式显示在文本中。
 - 也可以直接引用网上的图片链接
 
-![ 测试](./res/test.png)
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
+![视频]（http//player.bilibili.com/player.html?aid=498685022&bvid=BV1mK411n7Cu&cid=208410924&page=1）
+
+<iframe src="//player.bilibili.com/player.html?aid=498685022&bvid=BV1mK411n7Cu&cid=208410924&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 **********
