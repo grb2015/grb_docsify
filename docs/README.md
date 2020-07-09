@@ -53,7 +53,7 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 - 也可以直接引用网上的图片链接
 
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
-![视频](./res/2020-06-11 10-24-34.mp4)
+![视频](./res/test.png)
 
 
 
