@@ -1,6 +1,6 @@
 # 帮助说明
 使用纯文本的方式表达文本、格式、表格、代码、链接等。
-进阶使用请参考：[Markdown指南]（https://www.markdown.xyz/）
+进阶使用请参考<https://www.markdown.xyz/>
 
 *********
 ## 添加各层级标题
