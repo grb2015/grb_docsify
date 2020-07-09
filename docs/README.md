@@ -60,4 +60,4 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 
 
 **********
-## 链接、表格等见：<https://www.runoob.com/markdown/md-tutorial.html>
+## 更多内容见：<https://www.runoob.com/markdown/md-tutorial.html>
