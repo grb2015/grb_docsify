@@ -1,9 +1,7 @@
 # 帮助说明
 使用纯文本的方式表达文本、格式、表格、代码、链接等。
 
-本文都只介绍了一种格式的表达方式，实际可以有多种表达方式，见下面的链接。
-
-进阶使用请参考:<https://www.runoob.com/markdown/md-tutorial.html>
+本文都只介绍了一种格式的表达方式
 
 *********
 ## 添加各层级标题
@@ -56,5 +54,5 @@
 ![RUNOOB 图标](./res/test.png)
 
 ```
-
-
+**********
+## 链接、表格等见：<https://www.runoob.com/markdown/md-tutorial.html>
