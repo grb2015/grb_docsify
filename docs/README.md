@@ -3,7 +3,7 @@
 
 本文都只介绍了一种格式的表达方式，实际可以有多种表达方式，见下面的链接。
 
-进阶使用请参考:<https://www.markdown.xyz/>
+进阶使用请参考:<https://www.runoob.com/markdown/md-tutorial.html>
 
 *********
 ## 添加各层级标题
@@ -44,5 +44,14 @@
     - 第二项嵌套的第一个元素
     - 第二项嵌套的第二个元素
   ```
+*********
+## 图片
+- 图片的资源文件保存到本仓库的res文件夹中
+- 开头一个感叹号 !
+- 接着一个方括号，里面放上图片的替代文字
+- 接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字。
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
 
 
