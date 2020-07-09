@@ -54,7 +54,14 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
 
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+<source id="mp4" src="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+</video>
 
+作者：范东同学
+链接：https://www.jianshu.com/p/0742bb15c2dd
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 **********
