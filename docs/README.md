@@ -55,7 +55,7 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
 
 <iframe 
-    width="800" 
+    width="600" 
     height="450" 
     src="./res/2020-06-11 10-24-34.mp4"
     frameborder="0" 
