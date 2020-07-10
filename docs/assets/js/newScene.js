@@ -1,5 +1,5 @@
 function newScene() {
-    var glbPath = "./assets/glTF/test_model/角窗.glb"
+    var glbPath = "./assets/glTF/test_model/梯模 TAK1-CCM.glb"
     var scene, renderer, camera;
     var model;
     var xmaxRlt = -10000   // 保存所有使用相对地址的mesh中boundingBox的x最小值
@@ -32,7 +32,7 @@ function newScene() {
     var yMaxMeshAbs   
     var zMinMeshAbs   
     var zMaxMeshAbs  
-    const  OPACITY = 0.5  // 透明度
+    const OPACITY = 0.87  // 透明度
     var axesHelper = new THREE.AxesHelper( 10 );   // The X axis is red. The Y axis is green. The Z axis is blue.
     var bbox   			// gltf的boundingBox框
     var mesh1Bbox 		// mesh1的boundingBox框
@@ -47,6 +47,8 @@ function newScene() {
     function init() {
 
         var container = document.getElementById( 'container' );
+        // container.style.height = "500px";
+        // container.style.width = "400px";
 
         scene = new THREE.Scene();
         scene.background = new THREE.Color( 0x606060 );
@@ -200,7 +202,11 @@ function newScene() {
 
         renderer = new THREE.WebGLRenderer( { antialias: true } );
         renderer.setPixelRatio( window.devicePixelRatio );
+
+        window.innerWidth = window.innerWidth*.65;
+        window.innerHeight = window.innerHeight*.65;
         renderer.setSize( window.innerWidth, window.innerHeight );
+        
         renderer.outputEncoding = THREE.sRGBEncoding;
         renderer.shadowMap.enabled = true;
         container.appendChild( renderer.domElement );
