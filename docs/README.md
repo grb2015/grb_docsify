@@ -57,8 +57,8 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
 
 <iframe 
-    width=100%' 
-    height=100%' 
+    width=800
+    height=650
     src="./res/2020-06-11 10-24-34.mp4"
     frameborder="0" 
     allowfullscreen>
@@ -68,8 +68,8 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 
 
 <iframe 
-    width=100%' 
-    height=100%' 
+    width=800 
+    height=650 
     src="//player.bilibili.com/player.html?aid=795925374&bvid=BV1FC4y1a7H3&cid=201194225&page=1"
     frameborder="0" 
     allowfullscreen>
